@@ -1,0 +1,27 @@
+h1 {
+  color: pink;
+  font-size: 500%;
+}
+
+p {
+  text-indent: 35px;
+  font-family: "Consolas";
+  color: white;
+}
+
+img {
+  margin: auto;
+  display: block;
+  width: 60%;
+}
+
+#content {
+  background-color: green;
+  width: 900px;
+  min-height: 350px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 50px;
+  border: dotted 20px yellow;
+  font-size: 20px;
+}
