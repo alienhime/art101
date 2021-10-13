@@ -1,0 +1,49 @@
+h1 {
+  color: #aae7fa;
+  font-family: monospace;
+}
+
+h2 {
+  color: #fae8ff;
+  font-family: monospace;
+}
+
+p {
+  color: white;
+  font-family: "Georgia";
+}
+
+code {
+  color: white;
+}
+
+div {
+  background-color: #F8B1D8;
+  width: 1250px;
+  min-height: 100px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 50px;
+  border: dashed 10px  #aae7fa;
+  font-size: 20px;
+}
+
+#header {
+  background-color: #F8B1D8;
+  width: 1250px;
+  min-height: 100px;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  border: dashed 10px  #aae7fa;
+  font-size: 20px;
+  color: #F8B1D8;
+}
+
+#eggplant {
+  width: 1000px;
+}
+
+#roshambo {
+  width: 1000px;
+}
