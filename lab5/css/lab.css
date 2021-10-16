@@ -1,0 +1,31 @@
+h1 {
+  color: red;
+  font-family: monospace;
+}
+
+h2 {
+  color: gray;
+  font-family: monospace;
+}
+
+h3 {
+  color: gray;
+  font-family: monospace;
+}
+
+p {
+  color: white;
+  font-family: "Georgia";
+}
+
+#content {
+  background-color: black;
+  width: 1250px;
+  min-height: 100px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 50px;
+  border: solid 10px  red;
+  font-size: 20px;
+  color: white;
+}
