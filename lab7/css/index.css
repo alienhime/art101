@@ -1,0 +1,41 @@
+body {
+  background-image: repeating-radial-gradient(#D93E30, #F27244 10%, #F28F16 20%);
+  background-color: #F28F16;
+}
+
+h1 {
+  color:  #261C1B;
+  font-family: "Century Gothic";
+}
+
+h2 {
+  color: #733F34;
+  font-family: "Century Gothic";
+}
+
+h3 {
+  color: #733F34;
+  font-family: "Century Gothic";
+}
+
+p {
+  color: #A65E44;
+  font-family: "Candara";
+  font-size: 25px;
+}
+
+#content {
+  background-color: #F2CEA2;
+  width: 1250px;
+  min-height: 100px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 50px;
+  border: solid 10px  #F2B56B;
+  font-size: 25px;
+  color: #A65E44;
+}
+
+img {
+  width: 1000px;
+}
