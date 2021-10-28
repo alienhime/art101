@@ -1,0 +1,35 @@
+body {
+  background-color: #6B4884;
+}
+
+h1 {
+  color:  #6B4884;
+  font-family: "Copperplate Gothic";
+}
+
+h2 {
+  color: #C172DC;
+  font-family: "Copperplate Gothic Light";
+}
+
+p {
+  color: black;
+  font-family: "Perpetua";
+  font-size: 25px;
+}
+
+#content {
+  background-color: #FFB754;
+  width: 1250px;
+  min-height: 100px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 50px;
+  border: dotted 30px  #F3631F;
+  font-size: 25px;
+  color: #A65E44;
+}
+
+img {
+  width: 500px;
+}
