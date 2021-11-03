@@ -1,0 +1,26 @@
+body {
+  background-color: #6E5449;
+}
+
+h1 {
+  color:   #243919;
+  font-family: "Lucida Handwriting";
+}
+
+h2 {
+  color:  #243919;
+  font-family: "Lucida Handwriting";
+}
+
+#content {
+  background-color: #959940;
+  width: 1250px;
+  min-height: 100px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 50px;
+  font-size: 20px;
+  color: #FCF0E0;
+  font-family: "Garamond";
+  border: double 30px  #243919;
+}
