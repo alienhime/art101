@@ -1,0 +1,30 @@
+body {
+  background-color: #00667A;
+}
+
+h1 {
+  color:   #00667A;
+  font-family: "Lucida Console";
+}
+
+h2 {
+  color:  #00667A;
+  font-family: "Lucida Console";
+}
+
+#content {
+  background-color: #000809;
+  width: 1250px;
+  min-height: 100px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 50px;
+  font-size: 25px;
+  color: #C2C9BE;
+  font-family: "Courier";
+}
+
+#hacker_pic {
+  margin: auto;
+  font-size: 16px;
+}
