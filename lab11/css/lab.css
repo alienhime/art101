@@ -1,0 +1,42 @@
+.special1 {
+  background-color: #3D44D9;
+  font-family: "Comic Sans MS";
+}
+
+.special2 {
+  background-color: #7AD95F;
+  color: black;
+  font-family: "Century Gothic";
+}
+
+.special3 {
+  background-color: #F2A30F;
+  font-family: "Candara";
+}
+
+body {
+  background-color: white;
+}
+
+h1 {
+  color: white;
+  font-family: "Lucida Handwriting";
+}
+
+h2 {
+  color:  white;
+  font-family: "Lucida Handwriting";
+}
+
+div {
+  background-color: #F299B9;
+  width: 1250px;
+  min-height: 100px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 50px;
+  font-size: 20px;
+  color: #FCF0E0;
+  font-family: "Garamond";
+  border: double 30px  white;
+}
