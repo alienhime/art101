@@ -1,0 +1,102 @@
+body {
+  background-color: #FAB496;
+}
+
+h1 {
+  color: #F57382;
+  font-family: "Lucida Handwriting";
+}
+
+h2 {
+  color:  #C36E82;
+  font-family: "Lucida Handwriting";
+}
+
+div {
+  background-color: #375A7D;
+  width: 1250px;
+  min-height: 100px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 20px;
+  color: #FAB496;
+  font-family: "Garamond";
+  border-radius: 25px;
+}
+
+img {
+  max-width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:link {
+  color: #F57382;
+}
+
+/* visited link */
+a:visited {
+  color: #C36E82;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+
+#title_section {
+  background-color: #375A7D;
+  width: 1250px;
+  min-height: 100px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 20px;
+  color: #FCF0E0;
+  font-family: "Garamond";
+  /*border: double 30px  #F57382;*/
+}
+.output {
+  background-color: #375A7D;
+  width: 625px;
+  min-height: 100px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 20px;
+  color: #FCF0E0;
+  font-family: "Garamond";
+  border: double 30px  #BF7B3F;
+}
+
+.linkbox {
+  background-color: #375A7D;
+  width: 1250px;
+  min-height: 5px;
+  padding: 80px;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 20px;
+  color: #FCF0E0;
+  font-family: "Garamond";
+  /*border: double 30px  #BF7B3F;*/
+}
+
+#activate {
+  background-color: #C36E82;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+#activate:hover {
+  background-color: white;
+  color: #C36E82;
+}
